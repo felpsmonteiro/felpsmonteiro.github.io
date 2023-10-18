@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Master's Degree 
 
-[Master's Degree Project](https://observablehq.com/d/b592144192fae7eb)
-<img src="earthquakes_newZealand.png?raw=true"/>
+[Data Visualization Project - D3/VegaLite](https://observablehq.com/d/b592144192fae7eb)
+<img src="images/earthquakes_newZealand.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
