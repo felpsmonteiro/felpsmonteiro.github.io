@@ -20,7 +20,7 @@
 <img src="images/earthquakes_newZealand.png?raw=true"/>
 
 ---
-[Data Science -- Machine Learning -- Python](https://github.com/felpsmonteiro/machinelearning/)
+[Data Science/ML -- Python](https://github.com/felpsmonteiro/machinelearning/)
 <img src="images/DataScience.png?raw=true"/>
 
 ### Tech Skills
