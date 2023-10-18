@@ -12,7 +12,7 @@
 <img src="images/runs.png?raw=true"/>
 
 ---
-[World Carbon Rate -- Tableau](https://public.tableau.com/app/profile/felipe.monteiro/viz/FelipeMonteiro-DashboardFuels/Fuels)
+[World's Carbon Rate Dataset -- Tableau](https://public.tableau.com/app/profile/felipe.monteiro/viz/FelipeMonteiro-DashboardFuels/Fuels)
 <img src="images/carbon_rates.png?raw=true"/>
 
 ---
@@ -21,6 +21,6 @@
 
 ### Tech Skills
 
-- [Python](https://github.com/felpsmonteiro/masters-degree-research/blob/main/preprocessing.py)
+- [Python](https://github.com/felpsmonteiro/masters-degree-research)
 - [Tableau](https://public.tableau.com/app/profile/felipe.monteiro/vizzes)
 - [JavaScript/D3/VegaLite](https://observablehq.com/@felpsmonteiro)
