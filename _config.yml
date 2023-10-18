@@ -2,13 +2,11 @@ title: Felipe Monteiro # your name (or website title) here
 logo: "io/felpsmonteiro.github.io/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <ul>
-  <li>IT Professional with +6 years of experience working closely with business stakeholders to comprehend information needs and establish project deliverables.</li>
-  <li>+2 years working as a Data Analyst supporting business operations through Data-Driven insights. </li>
-  <li>+4 years translating business requirements into needs.</li>
-  <li>Proficient in Excel, PowerQuery, PowerBI, SQL, and Python.</li>
-  <li>Skilled in SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, MS Power Automation, Jira, Confluence, AWS, GCP, and Git.</li>
-  <li>Proactive, self-motivated, and analytical, capable of working both independently and collaboratively within a team.</li> 
-  <li>Experience in Agile Scrum/Kanban development environments, with experience engaging directly with customers.</li> 
+    <li>IT Professional with +6 years of experience working closely with business stakeholders to comprehend information needs and establish project deliverables.</li>
+    <li>+2 years working as a Data Analyst supporting business operations through Data-Driven insights. </li>
+    <li>+4 years translating business requirements into needs.</li>
+    <li>Proficient in Excel, PowerQuery, PowerBI, SQL, and Python.</li>
+    <li>Skilled in SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, MS Power Automation, Jira, Confluence, AWS, GCP, and Git.</li>
   </ul>
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
@@ -16,4 +14,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
