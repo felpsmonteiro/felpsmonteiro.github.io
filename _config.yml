@@ -1,13 +1,15 @@
 title: Felipe Monteiro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-        <ul>
-          <li>IT Professional with +6 years of experience working closely with business stakeholders to comprehend information needs and establish project deliverables.</li>
-          <li>+3 years working as a Data Analyst supporting business operations through Data-Driven insights.</li>
-          <li>+4 years translating business requirements into needs.</li>
-          <li>Proficient in Excel, PowerQuery, PowerBI, SQL, and Python.</li>
-          <li>Skilled in SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, MS Power Automation, Jira, Confluence, AWS, GCP, and Git.</li>
-        </ul>
+  IT Professional with +6 years of experience working closely with business stakeholders to comprehend information needs and establish project deliverables.
+  <br><br>
+  +3 years working as a Data Analyst supporting business operations through Data-Driven insights.
+  <br><br>
+  +4 years translating business requirements into needs.
+  <br><br>
+  Proficient in Excel, PowerQuery, PowerBI, SQL, and Python.
+  <br><br>
+  Skilled in SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, MS Power Automation, Jira, Confluence, AWS, GCP, and Git.
 # First description 
 #<br><br>
 #Second description 
