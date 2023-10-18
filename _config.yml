@@ -1,5 +1,5 @@
 title: Felipe Monteiro # your name (or website title) here
-logo: "io/felpsmonteiro.github.io/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 <br><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <ul>
