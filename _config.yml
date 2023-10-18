@@ -1,11 +1,27 @@
 title: Felipe Monteiro # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "io/felpsmonteiro.github.io/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+
+  IT Professional with +6 years of experience working closely with business stakeholders to comprehend information needs and establish project deliverables.</li>
   <br><br>
-  Second description 
+  <li> +2 years working as a Data Analyst supporting business operations through Data-Driven insights.</li>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <li> +4 years translating business requirements into needs.</li>
+  <br><br>
+  <li> Proficient in Excel, PowerQuery, PowerBI, SQL, and Python.</li>
+  <br><br>
+  <li> Skilled in SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, MS Power Automation, Jira, Confluence, AWS, GCP, and Git.</li>
+  <br><br>
+  <li> Proactive, self-motivated, and analytical, capable of working both independently and collaboratively within a team.</li>
+  <br><br>
+  <li>Experience in Agile Scrum/Kanban development environments, with experience engaging directly with customers.</li>
+  </ul>
+  <br><br>
+  <a href="https://www.linkedin.com/in/monteiroflp/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
