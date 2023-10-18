@@ -23,4 +23,4 @@
 
 - [Python](https://github.com/felpsmonteiro/masters-degree-research/blob/main/preprocessing.py)
 - [Tableau](https://public.tableau.com/app/profile/felipe.monteiro/vizzes)
-- [D3/VegaLite](https://public.tableau.com/app/profile/felipe.monteiro/vizzes)
+- [JavaScript/D3/VegaLite](https://observablehq.com/@felpsmonteiro)
