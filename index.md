@@ -4,7 +4,7 @@
 
 ### Master's Degree -- Data Analytics and Science Projects
 
-[Master's Degree Project -- Network Traffic Data Privacy -- Python](https://github.com/felpsmonteiro/masters-degree-research/blob/main/graphics.py)
+[Network Traffic Data Privacy -- Python](https://github.com/felpsmonteiro/masters-degree-research/blob/main/graphics.py)
 <img src="images/msc_project.png?raw=true"/>
 
 ---
