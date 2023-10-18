@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Master's Degree Project](https://observablehq.com/d/b592144192fae7eb)
+<img src="earthquakes_newZealand.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
