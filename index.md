@@ -2,7 +2,7 @@
 
 ---
 
-### Master's Degree -- Data Visulization Projects
+### Master's Degree -- Data Analytics and Science Projects
 
 [Master's Degree Project -- Network Traffic Data Privacy -- Python](https://github.com/felpsmonteiro/masters-degree-research/blob/main/graphics.py)
 <img src="images/msc_project.png?raw=true"/>
@@ -18,6 +18,10 @@
 ---
 [Earthquakes in New Zealand Dataset -- D3/VegaLite](https://observablehq.com/d/b592144192fae7eb)
 <img src="images/earthquakes_newZealand.png?raw=true"/>
+
+---
+[Data Science -- Machine Learning -- Python](https://github.com/felpsmonteiro/machinelearning/)
+<img src="images/DataScience.png?raw=true"/>
 
 ### Tech Skills
 
