@@ -13,6 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     </ul>
     
     <a href="https://www.linkedin.com/in/monteiroflp/">View My LinkedIn Profile</a>  
+    <a href="https://github.com/felpsmonteiro">View My GitHub Profile</a>  
   </div>
   
 remote_theme: pages-themes/minimal@v0.2.0
