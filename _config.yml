@@ -2,9 +2,9 @@ title: Felipe Monteiro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
     
-    <a href="https://www.linkedin.com/in/monteiroflp/">View My LinkedIn Profile</a>
-    <br><br>  
-    <a href="https://github.com/felpsmonteiro">View My GitHub Profile</a>   
+  <a href="https://www.linkedin.com/in/monteiroflp/">View My LinkedIn Profile</a>
+  <br><br>  
+  <a href="https://github.com/felpsmonteiro">View My GitHub Profile</a>   
   
   <div style="max-height: 400px; overflow-y: auto;">
     <ul>
