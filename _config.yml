@@ -2,14 +2,18 @@ title: Felipe Monteiro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-<a href="https://www.linkedin.com/in/monteiroflp/">
-  <i class="fab fa-linkedin"></i> LinkedIn Profile
-</a>
-<a href="https://github.com/felpsmonteiro">
-<i class="fab fa-github"></i> GitHub Profile
-</a>
 <div style="max-height: 400px; overflow-y: auto;">
   <ul>
+   <li>
+      <a href="https://www.linkedin.com/in/monteiroflp/">
+        <i class="fab fa-linkedin" style="color: blue;"></i> LinkedIn Profile
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/felpsmonteiro">
+        <i class="fab fa-github"></i> GitHub Profile
+      </a>
+    </li>
     <li>MSc in Computer Science.</li>
     <li>+6 years of experience working closely with business stakeholders to comprehend information needs and establish project deliverables.</li>
     <li>+3 years working as a Data Analyst supporting business operations through Data-Driven insights.</li>
