@@ -2,7 +2,9 @@ title: Felipe Monteiro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below
   MSc in Computer Science | 6+ years' experience collaborating with stakeholders to define project goals | 3+ years as Data Analyst driving data-driven insights for business operations | 4+ years translating business needs into solutions | Proficient in Excel, PowerQuery, PowerBI, SQL, Python, SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, Power Automation, Jira, Confluence, AWS, GCP, Git.
+  <br><br>
   <a href="https://www.linkedin.com/in/monteiroflp/">LinkedIn Profile</a> 
+  <br><br>
   <a href="https://github.com/felpsmonteiro">GitHub Profile</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
