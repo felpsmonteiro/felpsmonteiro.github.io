@@ -12,8 +12,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <li>Skilled in SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, MS Power Automation, Jira, Confluence, AWS, GCP, and Git.</li>
 </ul>
 </div>
+<br><br>
 <a href="https://www.linkedin.com/in/monteiroflp/">LinkedIn Profile
-<br>
+<br><br>
 <a href="https://github.com/felpsmonteiro">GitHub Profile
 
 remote_theme: pages-themes/minimal@v0.2.0
