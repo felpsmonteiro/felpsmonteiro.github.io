@@ -2,20 +2,12 @@ title: Felipe Monteiro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-<div style="max-height: 200px; overflow-y: auto;">
-<ul>
-  <li>MSc in Computer Science.</li>
-  <li>+6 years of experience working closely with business stakeholders to comprehend information needs and establish project deliverables.</li>
-  <li>+3 years working as a Data Analyst supporting business operations through Data-Driven insights.</li>
-  <li>+4 years translating business requirements into needs.</li>
-  <li>Proficient in Excel, PowerQuery, PowerBI, SQL, and Python.</li>
-  <li>Skilled in SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, MS Power Automation, Jira, Confluence, AWS, GCP, and Git.</li>
-</ul>
-</div>
-<br><br>
-<a href="https://www.linkedin.com/in/monteiroflp/">LinkedIn Profile
-<br><br>
-<a href="https://github.com/felpsmonteiro">GitHub Profile
+<div style="max-height: 300px; overflow-y: auto;">
+    MSc in Computer Science | 6+ years' experience collaborating with stakeholders to define project goals | 3+ years as Data Analyst driving data-driven insights for business operations | 4+ years translating business needs into solutions | Proficient in Excel, PowerQuery, PowerBI, SQL, Python, SQL, Data Extraction, Web Scraping, Tableau, Snowflake, Alteryx, Looker, Data Analysis, Power Automation, Jira, Confluence, AWS, GCP, Git.
+  </div>
+  <br><br>
+  <a href="https://www.linkedin.com/in/monteiroflp/">View My LinkedIn Profile</a> 
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
