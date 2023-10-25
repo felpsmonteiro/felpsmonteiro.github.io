@@ -26,5 +26,5 @@
 ### Tech Skills
 
 - [Python](https://github.com/felpsmonteiro/masters-degree-research)
-- [Tableau](https://public.tableau.com/app/profile/felipe.monteiro/vizzes)
+- [Tableau/PowerBI](https://public.tableau.com/app/profile/felipe.monteiro/vizzes)
 - [JavaScript/D3/VegaLite](https://observablehq.com/@felpsmonteiro)
