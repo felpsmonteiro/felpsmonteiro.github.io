@@ -12,6 +12,10 @@
 <img src="images/runs.png?raw=true"/>
 
 ---
+[Canada COVID 2023 -- Tableau](https://public.tableau.com/app/profile/felipe.monteiro/viz/CovidCanada_17029350405220/Dashboard1)
+<img src="images/CovidCanada.png?raw=true"/>
+
+---
 [World's Carbon Rate Dataset -- Tableau](https://public.tableau.com/app/profile/felipe.monteiro/viz/FelipeMonteiro-DashboardFuels/Fuels)
 <img src="images/carbon_rates.png?raw=true"/>
 
